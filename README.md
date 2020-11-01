@@ -6,4 +6,4 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - Pavê
 - Torta de Atum
 - Torta de Chocolate
-
+- Torta de Morango
